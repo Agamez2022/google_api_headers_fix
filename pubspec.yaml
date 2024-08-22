@@ -3,7 +3,7 @@ description: A Flutter plugin for getting the headers required to call Google AP
 version: 4.2.0
 
 environment:
-  sdk: ">=3.5.0 <4.0.0"
+  sdk: ">=3.4.0 <4.0.0"
   flutter: ">=3.24.0"
 
 dependencies:
